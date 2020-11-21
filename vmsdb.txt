@@ -1,0 +1,34 @@
+centralized database
+ORM object relation model ()
+
+Restful API's
+Model Optimization (User active/Inactive)
+
+Firebase
+
+
+Configuration object - hibernate.properties and hibernate.cfg.xml
+
+
+Server api  (User otp)
+
+
+photo uploaded to server folders.
+account_status = Active/Inactive.
+user role = int value
+Created at , uploaded at - 
+
+
+description - user role.
+
+device id and session token id from firebase.
+
+
+
+
+light-rest-4j api 
+Base Configuration for light-rest-4j
+
+
+
+
